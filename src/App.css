@@ -1,0 +1,64 @@
+@import "tailwindcss";
+
+body,
+html {
+  overflow: scroll;
+  scrollbar-width: none;
+
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.albert-sans {
+  font-family: "Albert Sans", sans-serif;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+/* h1 {
+  margin-bottom: 80vh;
+}
+
+.view {
+  width: 100%;
+  height: max-content;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.kotak-1 {
+  background-color: red;
+  width: 400px;
+  height: 100px;
+  margin-top: 10px;
+}
+
+.scroll-kotak {
+  animation: scrolling;
+  animation-timeline: view(0% 100%);
+}
+
+@keyframes scrolling {
+  0% {
+    .scroll-kotak {
+      opacity: 0;
+      transform: scale(0.5);
+    }
+  }
+  100% {
+    .scroll-kotak {
+      opacity: 1;
+      transform: scale(1);
+    }
+  }
+} */
