@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Presensia Landing Page
 
 Ini adalah landing page untuk aplikasi **Presensia**, dibangun dengan React, Tailwind CSS, dan Vite. Proyek ini menampilkan antarmuka modern dan ringan yang cocok untuk keperluan presentasi, promosi, atau dokumentasi aplikasi berbasis kehadiran (presensi).
@@ -34,3 +35,6 @@ npm run lint
 
 # Preview hasil build
 npm run preview
+=======
+# Presensia_Website
+>>>>>>> 8782f562e163c5b38f26e30a283af258743a1ad6
